@@ -1,0 +1,31 @@
+/* Fullscreen container to fill the viewport */
+.fullscreen-container {
+  font-family: 'Lato', sans-serif;
+    width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  cursor: pointer; /* Optional: Indicates the element is clickable */
+}
+
+/* Centered text with white color for contrast */
+.centered-text {
+  color: white;
+  font-size: 2rem; /* Adjust size as needed */
+  text-align: center;
+  margin: 0; /* Remove any default margin */
+}
+
+/* Optional: Style for loading screen */
+.loading-screen {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+  font-size: 2rem;
+}

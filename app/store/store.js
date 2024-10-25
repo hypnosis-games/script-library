@@ -13,7 +13,7 @@ export default function store(state, emitter) {
       style === "line-fade"
     ) {
       state.style = style;
-    }
+    } 
   }
   // Initialize state
   state.currentLine = 0;
@@ -128,7 +128,15 @@ export default function store(state, emitter) {
   function startTypewriter(line) {
     const typeNextCharacter = () => {
       if (state.currentCharacter < line.length) {
-        state.textToDisplay += line[state.currentCharacter];
+   
+        let char = line[state.currentCharacter];
+        let isWhitespace = char.match(/\s/);
+        if (isWhitespace) {
+          state.textToDisplay += char;
+        }
+        else {
+          state.textToDisplay += `<span class="character">${char}</span>`;
+        }
         state.currentCharacter++;
         emitter.emit("render"); // Re-render with the next character
 

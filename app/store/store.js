@@ -4,7 +4,15 @@ export default function store(state, emitter) {
   //get style from url params
   const urlParams = new URLSearchParams(window.location.search);
   const style = urlParams.get("style");
+  const scriptUrl = urlParams.get("script");
   state.style = "typewriter-fade";
+  const NOT_MY_SCRIPT_WARNING = `
+This script was not written by the author of this piece of software. It was written by someone else. I am not responsible for its content. 
+If you would like to see the original script, look at the url in the address bar.
+Make sure you trust the person who gave you this URL before you proceed.
+Play safe!
+...
+...`;
 
   if (style) {
     if (
@@ -13,7 +21,7 @@ export default function store(state, emitter) {
       style === "line-fade"
     ) {
       state.style = style;
-    } 
+    }
   }
   // Initialize state
   state.currentLine = 0;
@@ -36,6 +44,24 @@ export default function store(state, emitter) {
   }
 
   emitter.on("load-script", (scriptName) => {
+    // if params includes scriptUrl, load script from url
+    console.log("Loading script:", scriptName);
+    if (scriptUrl) {
+      const proxyUrl = "https://corsproxy.io/?" + encodeURIComponent(scriptUrl);
+      fetch(proxyUrl)
+        .then((response) => response.text())
+        .then((text) => {
+          state.currentScript = NOT_MY_SCRIPT_WARNING + text;
+          state.scriptLines = state.currentScript
+            .split("\n")
+            .filter((line) => line.trim() !== "") // Remove empty lines
+            .map(preprocessLine); // Preprocess lines into paragraphs
+          emitter.emit("render");
+          emitter.emit("start-typewriter", state.style); // Start the typewriter effect
+        });
+      return;
+    }
+
     state.currentLine = 0;
     state.currentCharacter = 0;
     state.currentScript = scriptDictionary[scriptName];
@@ -128,13 +154,11 @@ export default function store(state, emitter) {
   function startTypewriter(line) {
     const typeNextCharacter = () => {
       if (state.currentCharacter < line.length) {
-   
         let char = line[state.currentCharacter];
         let isWhitespace = char.match(/\s/);
         if (isWhitespace) {
           state.textToDisplay += char;
-        }
-        else {
+        } else {
           state.textToDisplay += `<span class="character">${char}</span>`;
         }
         state.currentCharacter++;

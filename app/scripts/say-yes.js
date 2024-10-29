@@ -329,7 +329,7 @@ And so now that you're just saying 'yes' for me... and letting the word fill you
 
 now that you feel so good that you can't do anything else... I'm going to ask you some questions 
 
-I'm going to ask you some questions and you're just going to answer them like a helpless little yes-machine... aren't you?
+I'm going to ask you some questions and you're just going to answer them... like a helpless little yes-machine... aren't you?
 
 Does it feel good to say 'yes' for me?
 
@@ -369,7 +369,7 @@ Yes
 
 And you can find... somehow... without knowing exactly how... without needing to know exactly how... 
 
-without needing to think or worry about what it means or what it feels like...
+without needing to think or worry...
 
 You can find that you just... sink... deeper for me...
 
@@ -411,7 +411,11 @@ That's right. You're doing so well... doing so well for me... being so good for 
 
 You're doing so well for me... being so good for me... and that makes you feel so good... happy... giddy... dreamy... proud... doesn't it?
 
-And when you're feeling this good... this deep... this easy... it's so easy just to let me guide you... let me direct you... let me... control... you... isn't it?
+And when you're feeling this good... this deep... this easy... it's so easy just to let me guide you... let me direct you... let me... 
+
+Control you... 
+
+isn't it?
 
 And that's really what you want—you want me to control you... don't you?
 
@@ -433,21 +437,47 @@ This trance... growing and growing...
 
 My words... taking you... so... deep...
 
-My words... filling your mind... completely...
+My words... filling your mind... completely... filled
 
-Filled... with trance...
+Filled
 
-Filled... by my words...
+with trance...
 
-Filled... by my control...
+Filled
 
-And there's nothing you can do to stop it... nothing you can do to resist it. You... are... completely controlled... completely entranced... completely hypnotized... completely... helpless.
+by my words...
+
+Filled
+
+by my control...
+
+And there's nothing you can do to stop it... nothing you can do to resist it. 
+
+You... are... completely controlled... 
+
+completely 
+
+entranced... 
+
+completely 
+
+hypnotized... 
+
+completely... 
+
+helpless.
 
 Mmm... and that's another delicious little word... isn't it? Say it for me...
 
-Feel how good it feels on your lips... filling your mouth... filling your mind... helpless...
+Helpless
 
-And that's what you are... my helpless little yes-machine and you'll do anything I tell you right now without even thinking about it... won't you?
+Feel how good it feels on your lips... filling your mouth... filling your mind... 
+
+helpless...
+
+And that's what you are... my helpless little yes-machine 
+
+and you'll do anything I tell you right now without even thinking about it... won't you?
 
 Helpless... controlled... filled... so deep...
 

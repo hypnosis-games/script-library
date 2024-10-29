@@ -1,7 +1,7 @@
 const sayYes = `
 Hi there...
 
-So, we both know how much you want this... both know how much you want what's coming. 
+So... we both know how much you want this... both know how much you want what's coming. 
 
 We know how much you want to relax... to let go... to read my words and let them do the thinking for you...
 
@@ -13,35 +13,35 @@ I want to help you get there.
 
 Let's start with something simple.
 
-Trance isn't anything special, you know? 
-
 The idea of trance can feel so lovely and magical and captivating... 
 
 Just thinking about the word... lingering on the word... 
 
 Trance...
 
-It can bring up so many different kinds of lovely ideas and feelings and sensations and desires...
+It can bring up so many different kinds of feelings.
 
-Trance... just linger on the word... feel it in your mind... feel its shape, the way it fits... the way it feels inside you.
+So many different ideas and feelings and sensations and desires...
+
+Trance... just linger on the word... feel it in your mind... feel its shape... the way it fits... the way it feels inside you.
 
 Trance... say it out loud now... notice how it feels... in your mouth... on your lips... the way your tongue forms it.
 
-Trance... and linger with it just a little while longer... noticing not just the feeling of the word, but also how saying the word makes you feel.
+Trance... and linger with it just a little while longer... noticing not just the feeling of the word... but also how saying the word makes you feel.
 
 Trance...
 
-And that was easy, wasn't it? 
+And that was easy... wasn't it? 
 
 It's nice... to have something easy to do for me. Because that's how you want trance to feel...
 
 Nice... and... easy...
 
-And now moving from your mind to your body, you can notice the way that your body is... passive... waiting... just still and reading and waiting for my words...
+And now moving from your mind to your body... you can notice the way that your body is... passive... waiting... just still and reading and waiting for my words...
 
-And it's interesting, isn't it? 
+And it's interesting... isn't it? 
 
-How when I write that, you do find yourself focusing on your body... 
+How when I write that... you do find yourself focusing on your body... 
 
 Focusing your attention on any shifts and movements... or any stillnesses... just because of the words I used...
 
@@ -49,7 +49,7 @@ The words I used to guide your attention.
 
 And now you're focusing inward again... 
 F
-ocusing on your attention... your mind... the way it flits from idea to idea, from inside to outside, from body to mind and back...
+ocusing on your attention... your mind... the way it flits from idea to idea... from inside to outside... from body to mind and back...
 
 And there's something almost disorienting about this shift... when you focus on it... isn't there? 
 
@@ -57,13 +57,13 @@ Because focusing inward... on your mind... on your attention... on your focus...
 
 And then focusing outward... on your body... on your movements... your stillnesses...
 
-Focusing on the way your body moves, your hands rest, the way you're breathing... that feels a different way, doesn't it?
+Focusing on the way your body moves... your hands rest... the way you're breathing... that feels a different way... doesn't it?
 
-And it happened again, didn't it? Your focus shifting back and forth... mind... to body... to mind... to body...
+And it happened again... didn't it? Your focus shifting back and forth... mind... to body... to mind... to body...
 
-And when you focus on your mind, you might notice that it feels a little bit different... 
+And when you focus on your mind... you might notice that it feels a little bit different... 
 
-Your focus, your thoughts... the way your mind is moving. 
+Your focus... your thoughts... the way your mind is moving. 
 
 It's hard to find the right words to describe the feeling because it's so abstract and internal...
 
@@ -81,7 +81,7 @@ And you're probably not sure about any of these words... each of them is trying 
 
 But it's OK if they don't seem exactly right... or if you don't feel exactly certain...
 
-But there's something there... and your mind does sort of want to linger on it a little bit, doesn't it? 
+But there's something there... and your mind does sort of want to linger on it a little bit... doesn't it? 
 
 Try them out... focus on their shape... how they feel... 
 
@@ -97,9 +97,9 @@ Soft...
 
 Easy...
 
-And while you were focusing on the words and on your mind, something was happening in your body, wasn't it? 
+And while you were focusing on the words and on your mind... something was happening in your body... wasn't it? 
 
-And again your mind sort of wants to find the right words but it's hard to find them, isn't it? 
+And again your mind sort of wants to find the right words but it's hard to find them... isn't it? 
 
 It's hard to find them when your mind feels like this... when your mind feels so fuzzy...
 
@@ -113,7 +113,7 @@ Easy...
 
 But I know you're looking for them... and so you try some out... feeling how they fit 
 
-Speaking them and feeling hhow they feel inside your mind, how they feel on your lips and tongue...
+Speaking them and feeling hhow they feel inside your mind... how they feel on your lips and tongue...
 
 Warm...
 
@@ -127,13 +127,13 @@ Easy...
 
 And as you focus on these words... try them out... see how they feel... 
 
-Your body might shift or squirm or move a little bit, it might relax and let go of tension... or... it might just feel perfectly still.
+Your body might shift or squirm or move a little bit... it might relax and let go of tension... or... it might just feel perfectly still.
 
-And all of these responses are perfect, because it's just your body doing what it wants... 
+And all of these responses are perfect... because it's just your body doing what it wants... 
 
 Easily and automatically without your mind needing to guide or direct it. 
 
-Your body is just playing along, following along... saying 'yes' for me in all of its own little ways... and that just makes you feel so...
+Your body is just playing along... following along... saying 'yes' for me in all of its own little ways... and that just makes you feel so...
 
 Warm...
 
@@ -159,19 +159,19 @@ Go ahead... say it for me...
 
 And as you're reading... you might start to notice how easy it is... 
 
-How east it is to just let go of the need to do anything at all... and instead, just follow along with what feels good.
+How east it is to just let go of the need to do anything at all... and instead... just follow along with what feels good.
 
-And right now... when you feel like this... it feels so good to say 'yes' for me, doesn't it?
+And right now... when you feel like this... it feels so good to say 'yes' for me... doesn't it?
 
-You see, hypnosis isn't about doing something... it's more about allowing something... allowing yourself to just... feel... 
+You see... hypnosis isn't about doing something... it's more about allowing something... allowing yourself to just... feel... 
 
-Feel that gentle, subtle shift... like how you're already starting to settle into a nice, relaxed rhythm.
+Feel that gentle... subtle shift... like how you're already starting to settle into a nice... relaxed rhythm.
 
-And as you read, you might find yourself thinking... 'Am I already feeling it? Am I letting go?'... and that's okay... 
+And as you read... you might find yourself thinking... 'Am I already feeling it? Am I letting go?'... and that's okay... 
 
-It make sense to wonder... to be curious about something you want so very much, doesn't it?
+It make sense to wonder... to be curious about something you want so very much... doesn't it?
 
-And, of course, 'am I letting go' is so very close... slips so easily... into 'I am letting go'.
+And... of course... 'am I letting go' is so very close... slips so easily... into 'I am letting go'.
 
 Are you letting go?
 
@@ -201,7 +201,7 @@ And... as you think about how easy it's becoming... you find yourself saying yes
 
 Your body is saying it... your mind is saying it... and your voice can say it for me right now...
 
-It's easy to say 'yes,' isn't it?
+It's easy to say 'yes...' isn't it?
 
 There's something... automatic... about it... something that feels so good... so natural.
 
@@ -215,7 +215,7 @@ And you can just enjoy saying 'yes' to whatever I tell you.
 
 Just saying 'yes' for me easily and automatically without really thinking too hard about what you're saying 'yes' to. 
 
-It's such a lovely idea, isn't it?
+It's such a lovely idea... isn't it?
 
 And saying yes makes you feel so good... makes you feel so...
 
@@ -235,17 +235,17 @@ Easy...
 
 And it all feels so incredibly good right now. Reading... focusing... my words inside of you... saying 'yes' for me...
 
-And you'd say 'yes' to anything right now, wouldn't you?
+And you'd say 'yes' to anything right now... wouldn't you?
 
 You'd say 'yes' to anything I told you because saying 'yes' makes you feel so...
 
 Fuzzy... Warm... Slow... Soft... Foggy... Heavy... Easy...
 
-And this makes it so easy to say 'yes' for me without thinking or worrying, doesn't it?
+And this makes it so easy to say 'yes' for me without thinking or worrying... doesn't it?
 
 So easy to say 'yes' for me and so hard to imagine wanting to do anything else... isn't that right?
 
-And as you say 'yes' for me, you might find that your voice sounds different... 
+And as you say 'yes' for me... you might find that your voice sounds different... 
 
 more distant... 
 
@@ -253,9 +253,9 @@ softer...
 
 slower... 
 
-and it feels so nice to notice that, doesn't it?
+and it feels so nice to notice that... doesn't it?
 
-And as you keep reading, you might find that your words feel different... 
+And as you keep reading... you might find that your words feel different... 
 
 the thoughts that make your words feel different... further away... sort of...
 
@@ -273,7 +273,7 @@ Heavy...
 
 Easy...
 
-And maybe your breathing starts to slow down now, as I draw your attention to it... everything can just start slowing down... 
+And maybe your breathing starts to slow down now... as I draw your attention to it... everything can just start slowing down... 
 
 Your body slowing down... 
 
@@ -283,7 +283,7 @@ Your thoughts slowing down...
 
 Everyhing feeling so soft... so easy... so relaxing as you let go...
 
-And as your thoughts slow down... nothing else really matters, all you want to do is say 'yes' for me... and it makes you feel so...
+And as your thoughts slow down... nothing else really matters... all you want to do is say 'yes' for me... and it makes you feel so...
 
 Fuzzy... Warm... Slow... Soft... Foggy... Heavy... Easy...
 
@@ -291,7 +291,7 @@ And so now that you're just saying 'yes' for me... and letting the word fill you
 
 now that you feel so good that you can't do anything else... I'm going to ask you some questions 
 
-I'm going to ask you some questions and you're just going to answer them like a helpless little yes-machine, aren't you?
+I'm going to ask you some questions and you're just going to answer them like a helpless little yes-machine... aren't you?
 
 Does it feel good to say 'yes' for me?
 
@@ -365,11 +365,11 @@ Heavy...
 
 Easy...
 
-And each time you say 'yes' for me, you just feel better and better, don't you?
+And each time you say 'yes' for me... you just feel better and better... don't you?
 
-And each time you say 'yes' for me, you just sink deeper and deeper, don't you?
+And each time you say 'yes' for me... you just sink deeper and deeper... don't you?
 
-That's right. You're doing so well... doing so well for me... being so good for me... sinking so easily for me... and that makes you feel so good, doesn't it?
+That's right. You're doing so well... doing so well for me... being so good for me... sinking so easily for me... and that makes you feel so good... doesn't it?
 
 You're doing so well for me... being so good for me... and that makes you feel so good... happy... giddy... dreamy... proud... doesn't it?
 
@@ -383,9 +383,9 @@ Fuzzy... Warm... Slow... Soft... Foggy... Heavy... Easy...
 
 It's so easy to control you when you can't resist... when you feel so helpless... when you can't stop saying 'yes' for me... isn't it?
 
-And each time you say 'yes' for me, you just let a little bit more of that control... of my control... slip inside you... don't you?
+And each time you say 'yes' for me... you just let a little bit more of that control... of my control... slip inside you... don't you?
 
-Each time you say 'yes' for me, you feel it... more and more... deeper and deeper...
+Each time you say 'yes' for me... you feel it... more and more... deeper and deeper...
 
 My words... slipping inside...
 
@@ -403,13 +403,13 @@ Filled... by my words...
 
 Filled... by my control...
 
-And there's nothing you can do to stop it, nothing you can do to resist it. You... are... completely controlled... completely entranced... completely hypnotized... completely... helpless.
+And there's nothing you can do to stop it... nothing you can do to resist it. You... are... completely controlled... completely entranced... completely hypnotized... completely... helpless.
 
-Mmm... and that's another delicious little word, isn't it? Say it for me...
+Mmm... and that's another delicious little word... isn't it? Say it for me...
 
 Feel how good it feels on your lips... filling your mouth... filling your mind... helpless...
 
-And that's what you are... my helpless little yes-machine and you'll do anything I tell you right now without even thinking about it, won't you?
+And that's what you are... my helpless little yes-machine and you'll do anything I tell you right now without even thinking about it... won't you?
 
 Helpless... controlled... filled... so deep...
 
@@ -432,13 +432,13 @@ That's right. So good. So good for me. Perfectly still. Perfectly quiet. Perfect
 
 Just waiting for my words to take you deeper. Waiting for my words to fill you. 
 
-Waiting and wanting and so perfectly, helplessly obedient for me like the helpless little yes-machine you are. 
+Waiting and wanting and so perfectly... helplessly obedient for me like the helpless little yes-machine you are. 
 
 Isn't that right?
 
 That's right.
 
-You're doing so well for me, being so good for me...
+You're doing so well for me... being so good for me...
 
 And now... it's time to slowly come back... to slowly bring yourself back to the surface... to wake up... 
 
@@ -446,11 +446,11 @@ Feeling and holding onto any aspects of this experience that you want to hold on
 
 Or you can just... let it all go and wake up feeling just however you want to feel... 
 
-Just slowly... easily coming back into yourself and letting your thoughts come back, letting your mind come back... letting your body come back
+Just slowly... easily coming back into yourself and letting your thoughts come back... letting your mind come back... letting your body come back
 
-And... with every breath you take... you can feel yourself becoming more aware... more awake... more alert... and you can just slowly, easily start to settle back into the world...
+And... with every breath you take... you can feel yourself becoming more aware... more awake... more alert... and you can just slowly... easily start to settle back into the world...
 
-And so, slowly, easily, evenly, at your own pace, waking up for me, coming back out of trance, and back into yourself. That's right. Very good.
+And so... slowly... easily... evenly... at your own pace... waking up for me... coming back out of trance... and back into yourself. That's right. Very good.
 
 And as I count from 1 to 5... you can feel yourself waking up... more and more... with each number...
 

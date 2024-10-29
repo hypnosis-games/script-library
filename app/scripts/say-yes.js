@@ -251,7 +251,7 @@ Deeper and deeper into this nice... comfortable... relaxed state.
 
 And you can just enjoy saying 'yes' to whatever I tell you.
 
-Just saying 'yes' for me easily and automatically without really thinking too hard about what you're saying 'yes' to. 
+Just saying 'yes' for me easily and automatically... without really thinking too hard about what you're saying 'yes' to. 
 
 It's such a lovely idea... isn't it?
 
@@ -275,13 +275,13 @@ And it all feels so incredibly good right now. Reading... focusing... my words i
 
 And you'd say 'yes' to anything right now... wouldn't you?
 
-You'd say 'yes' to anything I told you because saying 'yes' makes you feel so...
+You'd say 'yes' ... to anything I told you.. because saying 'yes' makes you feel so...
 
 Fuzzy... Warm... Slow... Soft... Foggy... Heavy... Easy...
 
 And this makes it so easy to say 'yes' for me without thinking or worrying... doesn't it?
 
-So easy to say 'yes' for me and so hard to imagine wanting to do anything else... isn't that right?
+So easy to say 'yes' for me... and so hard to imagine wanting to do anything else... isn't that right?
 
 And as you say 'yes' for me... you might find that your voice sounds different... 
 

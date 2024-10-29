@@ -24,7 +24,7 @@ export default function MainView(state, emit) {
       <div class="centered-text">
         ${state.textToDisplay
           .split('\n') // Split the text by `\n` to create paragraphs
-          .map(line => html`<p class="paragraph">${html([line])}</p>`)} <!-- Render each line in <p> -->
+          .map(line => html`<p class="paragraph">${html([line])}</p>`)} 
       </div>
     </div>
   `;

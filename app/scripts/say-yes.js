@@ -500,7 +500,9 @@ That's right. So good. So good for me. Perfectly still. Perfectly quiet. Perfect
 
 Just waiting for my words to take you deeper. Waiting for my words to fill you. 
 
-Waiting and wanting and so perfectly... helplessly obedient for me like the helpless little yes-machine you are. 
+Waiting and wanting and so perfectly... helplessly obedient for me 
+
+like the helpless little yes-machine you are. 
 
 Isn't that right?
 
@@ -514,11 +516,21 @@ Feeling and holding onto any aspects of this experience that you want to hold on
 
 Or you can just... let it all go and wake up feeling just however you want to feel... 
 
-Just slowly... easily coming back into yourself and letting your thoughts come back... letting your mind come back... letting your body come back
+Just slowly... easily coming back into yourself and letting your thoughts come back... 
 
-And... with every breath you take... you can feel yourself becoming more aware... more awake... more alert... and you can just slowly... easily start to settle back into the world...
+letting your mind come back... letting your body come back
 
-And so... slowly... easily... evenly... at your own pace... waking up for me... coming back out of trance... and back into yourself. That's right. Very good.
+And... with every breath you take... you can feel yourself becoming more aware... 
+
+more awake... 
+
+more alert... 
+
+and you can just slowly... easily start to settle back into the world...
+
+And so... slowly... easily... evenly... at your own pace... waking up for me... 
+
+coming back out of trance... and back into yourself. That's right. Very good.
 
 And as I count from 1 to 5... you can feel yourself waking up... more and more... with each number...
 

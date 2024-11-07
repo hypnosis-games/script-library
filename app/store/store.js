@@ -58,9 +58,12 @@ Play safe!
       // Get the width of the current line
       length = hiddenDiv.offsetWidth;
       // If the line is too long, add a newline character before the last word
-      if (length >= containerWidth *.9) {
+      if (length >= containerWidth * 0.9) {
         // Remove the last word from the current line
-        currentLine = currentLine.slice(0, currentLine.length - word.length - 1);
+        currentLine = currentLine.slice(
+          0,
+          currentLine.length - word.length - 1
+        );
         // Add the current line to the sublines array
         sublines.push(currentLine);
         // Start a new line with the last word
@@ -68,20 +71,17 @@ Play safe!
       }
     });
     sublines.push(currentLine);
-    sublines.push("¶")
-    return sublines
-
-
-
+    sublines.push("¶");
+    return sublines;
   }
 
   function preprocessLine(line) {
-    let sublines = line.split(/(?<=[.!?])\s+/) // Split by punctuation followed by space
-    let newSubLines = []
-    sublines.forEach (l => {
-      newSubLines = newSubLines.concat(addExplicitLineBreaks(l))
-    })
-    
+    let sublines = line.split(/(?<=[.!?])\s+/); // Split by punctuation followed by space
+    let newSubLines = [];
+    sublines.forEach((l) => {
+      newSubLines = newSubLines.concat(addExplicitLineBreaks(l));
+    });
+
     let newLine = newSubLines
       .map((sentence) => `${sentence.trim()}\n`) // Wrap in <p> tags
       .join(""); // Join everything back into a single string
@@ -230,9 +230,17 @@ Play safe!
     const typeNextCharacter = () => {
       state.textToDisplay = ""; // Initialize as an empty string for new text
       for (let i = 0; i < line.length; i++) {
-        let  char = line[i];
+        let char = line[i];
         if (char === "¶") {
-          char = "<p></p>";
+          const restOfString = line.slice(i + 1);
+          const isRestOfLineWhitespaceOrParagraphSymbol =
+            restOfString.match(/^\s*$/) || restOfString.match(/^¶/);
+          if (isRestOfLineWhitespaceOrParagraphSymbol) {
+            line = line.slice(0, i);
+            break;
+          } else {
+            char = "<p></p>";
+          }
         }
         const isWhitespace = char.match(/\s/);
         if (i < state.currentCharacter) {

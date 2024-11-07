@@ -433,3 +433,5 @@ For now, just enjoy this moment. Enjoy the way it feels to have been hypnotized.
 You were such a good little yes-machine, weren’t you? 
 
 Yes. Yes. Yes.`
+
+export default nodAlong;

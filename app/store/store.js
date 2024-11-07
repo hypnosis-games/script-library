@@ -29,9 +29,60 @@ Play safe!
   state.textToDisplay = "";
   state.readyToAdvance = false;
 
+  function addExplicitLineBreaks(line) {
+    const containerDiv = document.getElementById("app");
+    const containerWidth = containerDiv.offsetWidth;
+    // this function creates a hidden div and then adds the line to it one word at a time
+    // until the line is too long to fit in the div. Then it adds a newline character ("\n") before the last word
+    // and starts a new line with the last word and continues from there until it's done.
+
+    // Create a hidden div to calculate the line length
+    const hiddenDiv = document.createElement("div");
+    hiddenDiv.style.visibility = "hidden";
+    hiddenDiv.classList.add("centered-text");
+    hiddenDiv.style.width = "auto";
+    hiddenDiv.style.display = "inline-block";
+    hiddenDiv.style.position = "absolute";
+    // append the hidden div to the container div
+    containerDiv.appendChild(hiddenDiv);
+
+    // Split the line into words
+    const words = line.split(" ");
+    let currentLine = "";
+    let length = 0;
+    let sublines = [];
+    words.forEach((word) => {
+      // Add the word to the current line
+      currentLine += word + " ";
+      hiddenDiv.innerHTML = currentLine;
+      // Get the width of the current line
+      length = hiddenDiv.offsetWidth;
+      // If the line is too long, add a newline character before the last word
+      if (length >= containerWidth *.9) {
+        // Remove the last word from the current line
+        currentLine = currentLine.slice(0, currentLine.length - word.length - 1);
+        // Add the current line to the sublines array
+        sublines.push(currentLine);
+        // Start a new line with the last word
+        currentLine = word + " ";
+      }
+    });
+    sublines.push(currentLine);
+    sublines.push("¶")
+    return sublines
+
+
+
+  }
+
   function preprocessLine(line) {
-    let newLine = line
-      .split(/(?<=[.!?])\s+/) // Split by punctuation followed by space
+    let sublines = line.split(/(?<=[.!?])\s+/) // Split by punctuation followed by space
+    let newSubLines = []
+    sublines.forEach (l => {
+      newSubLines = newSubLines.concat(addExplicitLineBreaks(l))
+    })
+    
+    let newLine = newSubLines
       .map((sentence) => `${sentence.trim()}\n`) // Wrap in <p> tags
       .join(""); // Join everything back into a single string
 
@@ -179,7 +230,10 @@ Play safe!
     const typeNextCharacter = () => {
       state.textToDisplay = ""; // Initialize as an empty string for new text
       for (let i = 0; i < line.length; i++) {
-        const char = line[i];
+        let  char = line[i];
+        if (char === "¶") {
+          char = "<p></p>";
+        }
         const isWhitespace = char.match(/\s/);
         if (i < state.currentCharacter) {
           // Add raw text for whitespace, and wrap non-whitespace in <span>

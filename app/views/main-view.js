@@ -1,5 +1,4 @@
 export default function MainView(state, emit) {
-  console.log("Rendering MainView with state:", state);
   let { scriptName } = state.params;
   if (!scriptName) {
     scriptName = 'you-want-to-be-hypnotized';
@@ -24,7 +23,7 @@ export default function MainView(state, emit) {
       <div class="centered-text">
         ${state.textToDisplay
           .split('\n') // Split the text by `\n` to create paragraphs
-          .map(line => html`<p class="paragraph">${html([line])}</p>`)} 
+          .map(line => html`<div class="paragraph">${html([line])}</div>`)} 
       </div>
     </div>
   `;

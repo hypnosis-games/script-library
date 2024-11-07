@@ -134,7 +134,6 @@ Play safe!
       state.readyToAdvance = false;
       return;
     }
-    console.log("Advancing line:", state.currentLine);
     state.currentLine++;
     state.currentCharacter = 0;
     state.readyToAdvance = false;

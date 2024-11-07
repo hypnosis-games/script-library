@@ -3,4 +3,5 @@ import sayYes from './say-yes.js'
 export default {
   'you-want-to-be-hypnotized': youWantToBeHypnotized,
   'say-yes': sayYes
+  'nod-along': nodAlong
 }

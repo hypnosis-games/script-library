@@ -1,3 +1,6 @@
+/*
+/store/store.js
+*/
 import scriptDictionary from "../scripts/script-dictionary.js";
 
 export default function store(state, emitter) {

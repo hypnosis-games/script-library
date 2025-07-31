@@ -6,7 +6,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: black;
   cursor: pointer; /* Optional: Indicates the element is clickable */
 }
 
@@ -51,4 +50,16 @@
 .paragraph {
   opacity: 0;
   animation: fadeIn .5s forwards;
+}
+
+/* Full‑viewport p5 canvas sits underneath everything */
+#background-canvas {
+  width: 100vw;
+  height: 100vh;
+  /* z‑index and pointer‑events already set in JS – duplicate here just in case */
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99;
+  pointer-events: none;
 }
